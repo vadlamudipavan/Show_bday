@@ -47,7 +47,7 @@ export default function LandingPage({ onStart }: LandingPageProps) {
         <h1 className="text-6xl font-bold text-rose-700 mb-4 font-serif">
           Many More Happy Returns of the Day🎆
         </h1>
-        <p className="text-2xl text-rose-600 mb-8">Deat Chutki🧖‍♀️ 💖</p>
+        <p className="text-2xl text-rose-600 mb-8">Dear Chutki🧖‍♀️ 💖</p>
         {showHint && (
           <p className="text-sm text-rose-500 animate-pulse">
             {clicks === 0 && "✨ Are You Excited bro?? if yes please click or else close the browser ✨"}
